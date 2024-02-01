@@ -1,3 +1,6 @@
+
+💫 About Me
+
 - 👋 Hi, I’m Kavinda Nishan Jayaweera
 - 👀 I’m interested in Full Stack development and QA Automation
 - 🌱 I’m currently learning Python + Automation
