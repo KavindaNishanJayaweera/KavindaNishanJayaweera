@@ -5,12 +5,12 @@ Hi 👋 I'm Kavinda Nishan Jayaweera
 💻 Software QA Engineer | Automation Enthusiast
 
 🛠️ Tech Stack
-			Selenium WebDriver (Java)
-			Cucumber (BDD)
-			Playwright (TypeScript)
-			Rest Assured (API Automation)
-			OWASP ZAP (Security Testing)
-			Performance Testing (JMeter)
+			Selenium WebDriver (Java),
+			Cucumber (BDD),
+			Playwright (TypeScript),
+			Rest Assured (API Automation),
+			OWASP ZAP (Security Testing),
+			Performance Testing (JMeter),
 			SQL
 
 🌱 Currently Learning
