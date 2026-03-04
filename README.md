@@ -4,7 +4,7 @@ Hi 👋 I'm Kavinda Nishan Jayaweera
 
 💻 Software QA Engineer | Automation Enthusiast
 
-🛠️ Tech Stack
+🛠️ Tech Stack -
 			Selenium WebDriver (Java),
 			Cucumber (BDD),
 			Playwright (TypeScript),
@@ -13,7 +13,7 @@ Hi 👋 I'm Kavinda Nishan Jayaweera
 			Performance Testing (JMeter),
 			SQL
 
-🌱 Currently Learning
+🌱 Currently Learning -
 			Python + Robot Automation Frameworks
 			Test Architecture & CI/CD Integration
 
