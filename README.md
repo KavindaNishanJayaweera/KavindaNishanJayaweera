@@ -1,16 +1,20 @@
-
 💫 About Me
 
-- 👋 Hi, I’m Kavinda Nishan Jayaweera
-  
-- 👀 I’m interested in Full Stack development and QA Automation
+Hi 👋 I'm Kavinda Nishan Jayaweera
 
-- 🌱 I’m currently learning Python + Automation
+💻 Software QA Engineer | Automation Enthusiast
 
-- ⚡ Fun fact: Im Chess / Football and Cricket player
+🛠️ Tech Stack
+			Selenium WebDriver (Java)
+			Cucumber (BDD)
+			Playwright (TypeScript)
+			Rest Assured (API Automation)
+			OWASP ZAP (Security Testing)
+			Performance Testing (JMeter)
+			SQL
 
- 
-<!---
-KavindaNishanJayaweera/KavindaNishanJayaweera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently Learning
+			Python + Robot Automation Frameworks
+			Test Architecture & CI/CD Integration
+
+⚡ Fun Fact - ♟️ Chess | ⚽ Football | 🏏 Cricket
