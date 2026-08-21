@@ -2,7 +2,7 @@
 
 Hi 👋 I'm Kavinda Nishan Jayaweera
 
-💻 Software QA Engineer | Automation, API & Performance | AI Enthusiast
+💻 Software Quality Assura Engineer | Automation, API & Performance | AI Enthusiast
 
 
 🛠️ Tech Stack
